@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotoPicker</string>
+    <string name="pick_image">Pick Media</string>
+    <string name="filters_text">Filters</string>
+    <string name="image_only">Image Only</string>
+    <string name="video_only">Video Only</string>
+    <string name="image_and_video">Image and Video</string>
+</resources>
